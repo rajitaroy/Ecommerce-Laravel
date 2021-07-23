@@ -1,4 +1,7 @@
-To run the code on Windows using xampp, type the following commands on cmd:  
+# Demo  
+![Ecom](https://user-images.githubusercontent.com/68264150/126766850-d07a66bb-d827-4aa2-973b-feb3fafd7b25.gif)  
+
+## Steps to run:  
 
 #### Save the file in C:/xampp/htdocs
 

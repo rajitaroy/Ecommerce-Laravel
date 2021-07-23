@@ -1,5 +1,7 @@
 To run the code on Windows using xampp, type the following commands on cmd:  
 
+#### Save the file in C:/xampp/htdocs
+
 1. `cd Ecommerce-Laravel`  
 
 2. `composer install`  
